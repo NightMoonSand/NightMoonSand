@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @NightMoonSand
 - 👀 I’m interested in web development, discord bot development
 - 🌱 I’m currently learning javascript modding
-- Discord - MoonSand#0886
-- Email - nightmoonsand@gmail.com
